@@ -1,3 +1,8 @@
+# Twitter Clone
+Twitter Clone with React, by [Rocketseat](https://www.youtube.com/watch?v=K-8z_4xvT3o)
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
